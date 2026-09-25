@@ -1,2 +1,2 @@
-# calculus-data-science-and-ML
+# calculus-python
 Calculus for Data Science &amp; Machine Learning
